@@ -1,0 +1,6 @@
+//TyPeScript>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//what is TyPeScript ?
+//why do we use TyPeScript ? and it's advantages ?
+
+//
