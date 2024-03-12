@@ -1,3 +1,4 @@
+"use strict";
 // function add(
 //   number1: number,
 //   number2: number,
@@ -112,3 +113,7 @@ console.log("Hiiii");
 //   age:30
 // }
 // console.log(employee.phone)
+// type User = { name: string; age: number };
+// const u1: User = ["Max", 29];
+// console.log(u1.name)
+console.log('HOOOOOO');

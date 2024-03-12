@@ -1,0 +1,10 @@
+watch mode-> to check the anything in changes in file reload that without explicitly
+// tsc app.ts --watch
+only this will work for one file.
+
+//if you want to run the typescript project fully for compilation without targeting anything
+//specific files then we have to run the commond 'tsc init' it will create ts.config file.
+
+//by only tsc commond we can run the mutliple files in the project and identify the .ts files
+
+//rootDir and outDir ======================================================>
