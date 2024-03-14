@@ -1,0 +1,32 @@
+//intersection type of
+//type gaurde
+//discriminant unions
+//type casting
+//function overload
+
+
+//type gaurd is useful when you checking properties or methods in available or not when you trying to use.
+
+//typecasting helpfuls you to tell the typescript some value of specific type where typescript
+//is not able to detect it on its own.
+//but you as a developer know that it will be the case.
+
+//optional chaning
+const user ={
+    name:'abhishek',
+    email:'abhishe@gmail.com',
+    department:{
+        frontend:'SDE-1 frontend'
+    }
+}
+
+console.log(user?.department?.frontend)
+
+//nullish coalescing
+
+const input =''
+const result = input || 'default' //not a good way it will check if it is null or undefined if not then default.
+//but we don't want to check like this if input is empty then it will always go to default
+//then, here we can go for nullish coalescing
+
+const result = input ?? 'default' 
