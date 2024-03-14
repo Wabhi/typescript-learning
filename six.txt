@@ -1,0 +1,4 @@
+//generics>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+a generic type is a type which is kind of connected with some other type
+and it is realy flexible regarding which exact type that other type is
