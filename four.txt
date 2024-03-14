@@ -1,0 +1,20 @@
+//what is oops concepts?
+object oriented programming.
+
+//if we want to make read only property for class then we need 'readonly' property
+
+How can you shorten the following code in the best possible way?
+
+class Product {
+  title: string;
+  price: number;
+  private isListed: boolean;
+ 
+  constructor(name: string, pr: number) {
+    this.title = name;
+    this.price = pr;
+    this.isListed = true;
+  }
+}
+
+
