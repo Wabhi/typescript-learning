@@ -1,17 +1,5 @@
 "use strict";
-// type Admin={
-//     name: string,
-//     privilages: string[],
-// }
 function movingAnimal(animal) {
-    //   if ("flyingSpeed" in animal) {
-    //     console.log("the speed of moving animal : ", animal.flyingSpeed);
-    //   }
-    //   if (animal instanceof Bird) {
-    //     console.log("the speed of moving animal : ", animal.flyingSpeed);
-    //     //it won't accessible we have to do something else for make is accessible.
-    //     //we can
-    //   }
     let speed;
     switch (animal.type) {
         case "bird":
@@ -28,4 +16,4 @@ const errorBag = {
     name: "abhishek",
     email: 'ddjdj@gmail.com'
 };
-//function overload.....................
+//# sourceMappingURL=intersection.js.map
